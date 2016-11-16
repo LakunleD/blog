@@ -1,0 +1,1 @@
+This is a sample blog application built using Node js
